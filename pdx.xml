@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/sony/pdx206" remote="github" name="Seraphine3/device_sony_pdx206" revision="ricedroid" />
+  <project path="device/sony/pdx206" remote="github" name="Seraphine3/device_sony_pdx206" revision="aosp" />
   <project path="vendor/sony/pdx206" remote="github" name="Seraphine3/5ii_vendor_A12" revision="main" />
   <project path="kernel/sony/sm8250" remote="github" name="Seraphine3/sony_sm8250" revision="master" />
 </manifest>
